@@ -29,21 +29,20 @@ body {
 }
 
 .sociais img {
-    width: 100px;
-    margin-left: 100px;
+    width: 30px;
+    margin-left: 10px;
 }
 
 /* BANNER */
 .banner {
-    width: 100%;
-    height: 300px;
-    overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 .banner img {
     width: 100%;
-    height: 100%;
-    object-fit: fill;
+    max-height: none;
+    object-fit: auto;
 }
 
 /* ALUNOS */

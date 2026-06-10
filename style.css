@@ -21,12 +21,13 @@ body {
 }
 
 .logo {
-    width: 80px;
+    width: 200px;
 }
 
 .titulo-site {
     font-size: 60px;
     justify-content: center;
+    align-items: center;
 }
 
 .sociais img {

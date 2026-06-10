@@ -26,6 +26,7 @@ body {
 
 .titulo-site {
     font-size: 60px;
+    justify-content: center;
 }
 
 .sociais img {

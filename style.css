@@ -57,14 +57,14 @@ body {
     background: #0A132E;
     color: white;
     padding: 80px 20px;
-    text-align: left;           /* Mudei pra esquerda */
+    text-align: left;           
 }
 
 .sobre-mim h2 {
     font-size: 42px;
     margin-bottom: 35px;
     color: #00BFFF;
-    text-align: center;         /* Título continua centralizado */
+    text-align: center;        
 }
 
 .sobre-content {

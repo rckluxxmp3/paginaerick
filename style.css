@@ -11,14 +11,14 @@ body {
     background-color: #050818;
 }
 
-/* HEADER */
+/* cabeca */
 .cabecalho {
     background: #02050F;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 25px 40px;
+    padding: 30px 40px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.9);
     position: relative;
     gap: 30px;
@@ -38,7 +38,7 @@ body {
     color: #00BFFF;
 }
 
-/* BANNER */
+/* banner do daniel */
 .banner {
     width: 100%;
     height: 380px;
@@ -51,7 +51,7 @@ body {
     object-fit: cover;
 }
 
-/* SOBRE MIM */
+/* sobre mim */
 .sobre-mim {
     background: #0A132E;
     color: white;
@@ -75,7 +75,7 @@ body {
     line-height: 1.75;
 }
 
-/* METAS */
+/* metas */
 .metas {
     background: #0A132E;
     color: white;
@@ -109,7 +109,7 @@ body {
     border: 1px solid rgba(0, 191, 255, 0.15);
 }
 
-/* MEUS AMIGOS */
+/* meus parcas */
 .estudante {
     background-color: #081022;
     padding: 60px 20px;
@@ -147,7 +147,7 @@ body {
     margin-bottom: 12px;
 }
 
-/* MAPA */
+/* mapa */
 .mapa {
     padding: 60px 20px;
     background: #0A132E;
@@ -160,7 +160,7 @@ body {
     font-size: 38px;
 }
 
-/* ÁLBUNS FAVORITOS */
+/* albuns */
 .artistas {
     padding: 80px 20px;
     background: #050818;
@@ -200,7 +200,7 @@ body {
 }
 
 
-/* RODAPÉ */
+/* rodape */
 .rodape {
     background: #02050F;
     color: #A0C4FF;

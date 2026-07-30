@@ -199,6 +199,14 @@ body {
     transition: all 0.2s;
 }
 
+.titulo-video{
+    text-align: center;
+    color: #00BFFF;
+    font-size: 42px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
 .video-container{
     display: flex;
     justify-content: center;
